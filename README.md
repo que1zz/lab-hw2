@@ -25,7 +25,7 @@
 
 ### Блок-схема
 
-![<img width="267" height="772" alt="lab2_schema drawio" src="https://github.com/user-attachments/assets/2a10eccd-0239-4f2a-b9d4-b7616b79e9dd" />
+![<img width="267" height="772" alt="lab2_schema drawio" src="https://github.com/user-attachments/assets/f7abf4b6-7a80-4b6a-b258-0e6c508e85d3" />
 ](lab_2_schema.png)
 
 ## 2. Реализация программы
